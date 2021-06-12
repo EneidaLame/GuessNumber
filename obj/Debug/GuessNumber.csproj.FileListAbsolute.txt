@@ -1,0 +1,7 @@
+C:\Users\Eneida Lame\Desktop\Project\GuessNumber\bin\Debug\GuessNumber.exe.config
+C:\Users\Eneida Lame\Desktop\Project\GuessNumber\bin\Debug\GuessNumber.exe
+C:\Users\Eneida Lame\Desktop\Project\GuessNumber\bin\Debug\GuessNumber.pdb
+C:\Users\Eneida Lame\Desktop\Project\GuessNumber\obj\Debug\GuessNumber.csprojAssemblyReference.cache
+C:\Users\Eneida Lame\Desktop\Project\GuessNumber\obj\Debug\GuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\Eneida Lame\Desktop\Project\GuessNumber\obj\Debug\GuessNumber.exe
+C:\Users\Eneida Lame\Desktop\Project\GuessNumber\obj\Debug\GuessNumber.pdb
